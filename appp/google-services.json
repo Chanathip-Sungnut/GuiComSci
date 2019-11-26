@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "447894024324",
+    "firebase_url": "https://appwithsignin.firebaseio.com",
+    "project_id": "appwithsignin",
+    "storage_bucket": "appwithsignin.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:447894024324:android:b3a272db6f13a9ce3552d1",
+        "android_client_info": {
+          "package_name": "com.example.appwithsignin"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "447894024324-uvmfk5aforf5idijua4pj2jsu0v4o3rl.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.appwithsignin",
+            "certificate_hash": "9d457b3b11918396db1619bfd89f4964b27f3061"
+          }
+        },
+        {
+          "client_id": "447894024324-f134rjmagrpr23622i05bestfuuoecp7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAVcQ2UtUsh2NQceJFTD7KTfrYPjfLcGzk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "447894024324-f134rjmagrpr23622i05bestfuuoecp7.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
